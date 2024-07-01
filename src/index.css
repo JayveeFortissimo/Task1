@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
+
+.c1{
+    background-color: rgb(46, 45, 45);
+}
